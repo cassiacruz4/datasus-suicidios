@@ -31,3 +31,19 @@ Este projeto tem como objetivo realizar a análise exploratória de dados (EDA) 
 ```bash
 git clone https://github.com/cassiacruz4/datasus-suicidios.git
 
+📝Resultados esperados
+✔ Limpeza e tratamento de dados do dataset
+✔ Geração de estatísticas descritivas sobre os casos registrados
+✔ Visualização de tendências por ano, região, sexo e faixa etária
+✔ Criação de gráficos que apoiem a compreensão dos dados para futuras análises acadêmicas ou profissionais
+
+ 📊 Fonte de dados
+DATASUS - Ministério da Saúde do Brasil
+Link para o DATASUS
+
+✨ Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
+
+👩‍💻 Autora
+Ana Cássia Cruz Araújo
+
